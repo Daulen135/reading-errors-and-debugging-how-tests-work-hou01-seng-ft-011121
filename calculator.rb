@@ -4,6 +4,6 @@ sum=(first_number.to_f+ second_number.to_f)
 sum
 
 
-difference=(first_number-second_numer)
+difference=(first_number-second_number)
 difference
 
