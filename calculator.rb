@@ -12,3 +12,6 @@ product=(first_number*second_number)
 puts product
 product
 
+quotient=(first_number/second_number)
+puts quotient
+quotient
