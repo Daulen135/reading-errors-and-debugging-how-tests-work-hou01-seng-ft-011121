@@ -7,3 +7,4 @@ sum
 difference=(first_number-second_number)
 puts difference
 difference
+
