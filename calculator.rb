@@ -8,3 +8,7 @@ difference=(first_number-second_number)
 puts difference
 difference
 
+product=(first_number*second_number)
+puts product
+product
+
